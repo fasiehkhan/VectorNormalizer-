@@ -1,5 +1,5 @@
 # VectorNormalizer
-This program takes a vector as input and normalizes it.
+This C program takes a vector as input and normalizes it.
 
 
 ### To run:
