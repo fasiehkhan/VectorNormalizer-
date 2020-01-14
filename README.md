@@ -1,32 +1,18 @@
 # VectorNormalizer
-One Paragraph of project description goes here
+This program takes a vector as input and normalizes it.
 
-## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+### To run:
 
-### Prerequisites
+Compile and run ```./assign2main.c```
 
-What things you need to install the software and how to install them
 
-```
-Give examples
-```
+### Output
 
-### Installing
+The program outputs the normalized value after all vector values have been entered. 
+An example:
 
-A step by step series of examples that tell you how to get a development env running
+```./assign2main.c```
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+```> 3 1 2 3 ```
+``` VECTOR: [ 1.000, 2.000, 3.000 ] NORMALIZED: [ 0.267, 0.535, 0.802 ] ```
